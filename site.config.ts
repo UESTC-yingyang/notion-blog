@@ -26,7 +26,7 @@ export default siteConfig({
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: 'https://avatars.githubusercontent.com/u/49358630?v=4',
-  defaultPageCover: null,
+  defaultPageCover: 'https://avatars.githubusercontent.com/u/49358630?v=4',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
