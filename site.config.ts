@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '366659b3fdf84493985ddf1268c77d41',
+  rootNotionPageId: 'b69d51e5ffcb4de08258405206d1f45d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,23 +10,23 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Mingyuan\'s Blog',
-  domain: 'https://feather-forsythia-9b2.notion.site/Blog-Home-366659b3fdf84493985ddf1268c77d41',
-  author: 'Mingyuan Huang',
+  domain: 'https://abundant-cruiser-f30.notion.site/Blog-Home-b69d51e5ffcb4de08258405206d1f45d',
+  author: 'Yingyang',
 
   // open graph metadata (optional)
-  // description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Example graph',
 
   // social usernames (optional)
   twitter: null,
-  github: null,
+  github: 'UESTC-yingyang',
   linkedin: null,
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://avatars.githubusercontent.com/u/49358630?v=4',
-  defaultPageCover: 'https://avatars.githubusercontent.com/u/49358630?v=4',
+  defaultPageIcon: 'https://avatars.githubusercontent.com/u/50514087?v=4',
+  defaultPageCover: 'https://avatars.githubusercontent.com/u/50514087?v=4',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
