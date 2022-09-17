@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Mingyuan\'s Blog',
+  name: 'Yingyang\'s Blog',
   domain: 'https://abundant-cruiser-f30.notion.site/Blog-Home-b69d51e5ffcb4de08258405206d1f45d',
   author: 'Yingyang',
 
