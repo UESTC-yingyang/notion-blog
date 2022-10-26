@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Yingyang',
 
   // open graph metadata (optional)
-  description: 'Example graph',
+  description: 'Welcome to Yingyang\'s Blog',
 
   // social usernames (optional)
   twitter: null,
